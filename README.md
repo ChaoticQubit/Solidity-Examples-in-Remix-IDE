@@ -1,3 +1,5 @@
+Solidity is an object-oriented high level programming language for writing smart contracts. It is used for implementing smart contracts on various blockchain platforms. It was developed by Gavin Wood, Christian Reitwiessner, Alex Beregszaszi, Liana Husikyan, Yoichi Hirai and several former Ethereum core contributors to enable writing smart contracts on blockchain platforms such as Ethereum.
+
 This repository contains many examples of solidity programming language which is used for writing ethereum smart contracts. These examples were written in the Integrated Development Environment called as Remix IDE. You can visit https://remix.ethereum.org to go to the latest version of remix IDE.
 
 Examples List :
