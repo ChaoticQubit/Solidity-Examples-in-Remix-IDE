@@ -2,6 +2,8 @@ Solidity is an object-oriented high level programming language for writing smart
 
 This repository contains many examples of solidity programming language which is used for writing ethereum smart contracts. These examples were written in the Integrated Development Environment called as Remix IDE. You can visit https://remix.ethereum.org to go to the latest version of remix IDE.
 
+Remix Environment : ![Alt text](Solidity-Examples-in-Remix-IDE/Github Repo/Contract Run.png?raw=true "Title")
+
 Examples List :
   1. Greeter.sol : This smart contract is the hello world in the world of smart contracts. This will greet the person based on the name given         in the Input.
   2. Simple_Calculator.sol : This file is a simple calculator which provides basic mathematical operations.
