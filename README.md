@@ -6,3 +6,8 @@ Examples List :
   1. Greeter.sol : This smart contract is the hello world in the world of smart contracts. This will greet the person based on the name given         in the Input.
   2. Simple_Calculator.sol : This file is a simple calculator which provides basic mathematical operations.
   3. Bidder.sol : It is a bidding smart contract. If a specific user enters a amount greater than the minimum bidding amount then only he is eligible to place the bid in the auction.
+  4. Ballot V1.sol : It is a simple example of voting situation where chairperson gets higher weightage then any other voter.
+  5. Coin.sol : This smart contract will mint coins(in ether) to any account.
+  6. StateTransition.sol : This smart contract transitions from one state to another based on some time(say 10 seconds).
+
+  For more information visit https://github.com/Tprolifer/Solidity-Examples-in-Remix-IDE
